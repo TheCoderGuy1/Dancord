@@ -42,8 +42,12 @@ Client.on("message", function(message) {
 
         TextChannel.reply(message, "This is a self hosted, open-source version of dancord+. Get it at https://github.com/danielgraycode/dancord");
     }
-
-
+    
+    
+    
+    
+    
+});
 
 
 
